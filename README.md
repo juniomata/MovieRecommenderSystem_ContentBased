@@ -1,0 +1,2 @@
+# Movie_Recommender_System_-ContentBased-
+In this project, I made a recommender system using Content/feature from the movies/entities, then calculates the similarities to one another, so that when we go to a movie, we will get movies recommendations that have similarities to the movies we chose. We call this Content-Based Recommender System. By comparing the plot and genre similarities, the audience who watch Narnia will be recommended another movie such as Harry Potter or Lord of The Rings which have similar genres. 
