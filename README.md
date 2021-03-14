@@ -1,5 +1,5 @@
 # Movie Recommender System (ContentBased)
-This project is initiated by [DQLab Academy](https://academy.dqlab.id), an Online Data Science Course Platform. However, the content of this project not completely the same as the project of DQLab Academy, but have several modifications.
+This project is initiated by [DQLab Academy](https://academy.dqlab.id), an Online Data Science Course Platform. However, the content of this project is not completely the same as the project of DQLab Academy, but have several modifications.
 
 In this project, I made a recommender system using Content/feature from the movies/entities, then calculates the similarities to one another, so that when we go to a movie, we will get movies recommendations that have similarities to the movies we chose. We call this **`Content-Based Recommender System`**. By comparing the plot and genre similarities, the audience who watch Narnia will be recommended another movie such as Harry Potter or Lord of The Rings which have similar genres. 
 
