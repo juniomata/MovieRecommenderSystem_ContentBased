@@ -5,5 +5,5 @@ In this project, I made a recommender system using Content/feature from the movi
 
 The data of this project can be accessed through:
 - [Rating dataset](https://dqlab-dataset.s3-ap-southeast-1.amazonaws.com/movie_rating_df.csv)
-- Actors datasetname_df [https://dqlab-dataset.s3-ap-southeast-1.amazonaws.com/actor_name.csv]
-- Directors/Writers dataset [https://dqlab-dataset.s3-ap-southeast-1.amazonaws.com/directors_writers.csv]
+- [Actors dataset](https://dqlab-dataset.s3-ap-southeast-1.amazonaws.com/actor_name.csv)
+- [Directors/Writers dataset](https://dqlab-dataset.s3-ap-southeast-1.amazonaws.com/directors_writers.csv)
