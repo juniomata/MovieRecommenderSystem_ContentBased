@@ -7,3 +7,5 @@ The data of this project can be accessed through:
 - [Rating dataset](https://dqlab-dataset.s3-ap-southeast-1.amazonaws.com/movie_rating_df.csv)
 - [Actors dataset](https://dqlab-dataset.s3-ap-southeast-1.amazonaws.com/actor_name.csv)
 - [Directors/Writers dataset](https://dqlab-dataset.s3-ap-southeast-1.amazonaws.com/directors_writers.csv)
+
+Here we can see the result of the recommender system. For instance, we want to see what movies will be recommended if we watch Iron Man. As we can see, Black Panther, X-Men: apocalypse, and Start Trek will be the top 3 as they have strong similarity to Iron Man.
